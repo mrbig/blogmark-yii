@@ -1,0 +1,9 @@
+This is a demo application for the Budapest PHP Meetup. It is heavily based
+on the yii demo webapplication.
+
+This software requires the yii-1.1.10 framework. Please update the index.php
+and protected/yiic.php to point to the location of the framework.
+
+The demo requires a database connection to be set up. Please update
+proctected/config/main.php and protected/config/console.php to point to the
+correct database instance.
